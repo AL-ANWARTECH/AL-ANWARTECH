@@ -1,10 +1,10 @@
 ## 👋 About Me:
 
-I am Anwar Sagir Mustapha  
+I am **Anwar Sagir Mustapha**  
 #### Aspiring Backend Developer | Software Engineer | Computer Science Student  
-🚀Passionate about leveraging technology to build innovative, real-world solutions that impact healthcare, businesses, and communities.  
-✅ Skilled in Python, Django, REST APIs, MySQL, HTML, and CSS.
-📚 Lifelong learner focused on building scalable and secure backend systems.
+🚀 Passionate about leveraging technology to build innovative, real-world solutions that impact healthcare, businesses, and communities.  
+✅ Skilled in Python, Django, REST APIs, MySQL, HTML, and CSS.  
+📚 Lifelong learner focused on building scalable, secure, and high-performance backend systems.
 
 ---
 
@@ -18,6 +18,7 @@ I am Anwar Sagir Mustapha
 ---
 
 ## 💻 Tech Stack:
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -30,14 +31,16 @@ I am Anwar Sagir Mustapha
 ---
 
 ## 🚧 Currently Building:
+
 - **Task Management API** – A Django REST Framework project with authentication, task filtering, and status updates.  
 - **Social Media API** – REST API with user authentication, follow system, and personalized feed.  
 - **Django Blog** – Full CRUD blog with comment system, tagging, and search functionality.
 
-Check them out in the [Alx_DjangoLearnLab](https://github.com/AL-ANWARTECH/Alx_DjangoLearnLab) repository!
+🔗 Check them out in the [**Alx_DjangoLearnLab**](https://github.com/AL-ANWARTECH/Alx_DjangoLearnLab) repository!
 
 ---
 
 ## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AL-ANWARTECH&theme=radical&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api?username=AL-ANWARTECH&theme=radical&show_icons=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-ANWARTECH&layout=compact&theme=radical)
