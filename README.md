@@ -1,8 +1,8 @@
 ## 👋 About Me:
 
 I am **Anwar Sagir Mustapha**  
-#### Aspiring Backend Developer | Software Engineer | Computer Science Student  
-🚀 Passionate about leveraging technology to build innovative, real-world solutions that impact healthcare, businesses, and communities.  
+#### Aspiring Backend Developer | Software Engineer  
+🚀Passionate about leveraging technology to build innovative, real-world solutions that impact healthcare, businesses, and communities. I enjoy solving complex problems with clean and efficient code, particularly through backend technologies.  
 ✅ Skilled in Python, Django, REST APIs, MySQL, HTML, and CSS.  
 📚 Lifelong learner focused on building scalable, secure, and high-performance backend systems.
 
